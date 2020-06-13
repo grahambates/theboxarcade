@@ -1,0 +1,11 @@
+.npm
+.idea
+.next
+node_modules
+.DS_Store
+/reports/*
+*.log
+.vscode
+.tern-port
+/dist
+.env
